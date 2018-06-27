@@ -10,6 +10,10 @@ Each plant has five different types.
 The user can search the information of the plants by using this final project application.
 
 The information includes the followings
-  - name of plant
-  - location of plant
-  - type of plant
+  - Name of plant
+  - Location of plant
+  - Type of plant
+
+# New Features!
+
+The user can open the map in this application to find out the exact location of the plants !
