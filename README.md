@@ -17,3 +17,4 @@ The information includes the followings
 # New Features!
 
 The user can open the map in this application to find out the exact location of the plants !
+<img src=https://secure.i.telegraph.co.uk/multimedia/archive/01514/map_1514129c.jpg>
